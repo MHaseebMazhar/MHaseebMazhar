@@ -1,16 +1,21 @@
-## Hi there 👋
+Hi 👋 I'm M Haseeb Mazhar
 
-<!--
-**MHaseebMazhar/MHaseebMazhar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Junior Full Stack JavaScript Developer with experience in React.js, Node.js,
+Express, and MySQL. I enjoy building responsive web apps, REST APIs,
+and real-time features.
 
-Here are some ideas to get you started:
+### 🛠 Skills
+- Frontend: HTML, CSS, JavaScript, React.js
+- Backend: Node.js, Express.js, REST APIs
+- Database: MySQL
+- Tools: Git, GitHub, Postman, WebSocket (IoT)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 💼 Experience
+**Junior Full Stack Developer – SilentSol**  
+Jul 2025 – Present  
+- Built full-stack web apps using React & Node.js  
+- Implemented APIs, authentication, and real-time features  
+**Intern – SilentSol**  
+Jul 2024 – Jul 2025  
+- Worked on frontend & backend tasks  
+- Practiced REST APIs and WebSocket communication 
